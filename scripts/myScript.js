@@ -1,19 +1,19 @@
 // JavaScript Document
 
 function goProjects(){
-	location.assign("file:///D:/LTR%20Website/template/Projects.html");
+	location.assign("https://ahijit-banerjee.github.io/template/Projects.html");
 }
 
 function goTeam(){
-	location.assign("file:///D:/LTR%20Website/template/Team.html");
+	location.assign("https://ahijit-banerjee.github.io/template/Team.html");
 }
 
 function goProcess(){
-	location.assign("file:///D:/LTR%20Website/template/Process.html");
+	location.assign("https://ahijit-banerjee.github.io/template/Process.html");
 }
 
 function goServices(){
-	location.assign("file:///D:/LTR%20Website/template/Services.html");
+	location.assign("https://ahijit-banerjee.github.io/template/Services.html");
 }
 
 function goEntrada(){
@@ -21,7 +21,7 @@ function goEntrada(){
 }
 
 function goHome(){
-	location.assign("file:///D:/LTR%20Website/template/HomePage.html");
+	location.assign("https://ahijit-banerjee.github.io/template/HomePage.html");
 }
 
 function goPodcast(){
@@ -45,11 +45,11 @@ function goContact(){
 }
 
 function goGallery(){
-	location.assign("file:///D:/LTR%20Website/template/gallery.html");
+	location.assign("https://ahijit-banerjee.github.io/template/gallery.html");
 }
 
 function goFeatured(){
-	location.assign("file:///D:/LTR%20Website/template/Featured.html");
+	location.assign("https://ahijit-banerjee.github.io/template/Featured.html");
 }
 
 /* When the user clicks on the button, 
