@@ -230,6 +230,11 @@ img{
 	position: relative;
 }
 
+#right-alt{
+	height: 370px;
+	padding-top: 2%;
+}
+
 video{
 	max-height: 100%;
 	max-width: 100%;
