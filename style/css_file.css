@@ -223,8 +223,6 @@ img{
 	height: 432px;
 	background-color: white;
 	overflow: hidden;
-	position: relative;
-	top: -3%;
 }
 
 #left-alt, #middle-alt, #right-alt{
