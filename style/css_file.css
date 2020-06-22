@@ -208,6 +208,8 @@ img{
 	display: inline-block;
 	*display: inline;
 	font-size: xx-large;
+	position: relative;
+	top: 0;
 }
 
 #left, #right{
