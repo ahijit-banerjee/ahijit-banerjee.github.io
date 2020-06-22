@@ -15,10 +15,10 @@ function goProcess(){
 function goServices(){
 	location.assign("https://ahijit-banerjee.github.io/template/Services.html");
 }
-
+/*
 function goEntrada(){
 	location.assign("https://entrada.med.ubc.ca");
-}
+}*/
 
 function goHome(){
 	location.assign("https://ahijit-banerjee.github.io/template/HomePage.html");
