@@ -26,6 +26,17 @@ html, body{
 	z-index: -1;
 }
 
+.menu{
+	background-color: gainsboro;
+	height: 35px;
+}
+
+.menu img{
+	margin-left: 0;
+	max-height: 100%;
+	max-width: 100%;
+}
+
 /*
 div.box::after{
 	
@@ -208,22 +219,20 @@ img{
 	display: inline-block;
 	*display: inline;
 	font-size: xx-large;
+	overflow: hidden;
 	position: relative;
 	top: 0;
+	align-items: flex-start;
+	height: 432px;
 }
 
 #left, #right{
 	width: 25%;
-	height: 432px;
-	overflow: hidden;
 }
 
 #middle{
 	width: 50%;
-	height: 432px;
 	background-color: white;
-	overflow: hidden;
-	align-items: flex-start;
 }
 
 #left-alt, #middle-alt, #right-alt{
