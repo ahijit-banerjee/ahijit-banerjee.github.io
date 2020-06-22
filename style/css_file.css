@@ -223,6 +223,7 @@ img{
 	height: 432px;
 	background-color: white;
 	overflow: hidden;
+	align-items: flex-start;
 }
 
 #left-alt, #middle-alt, #right-alt{
