@@ -82,7 +82,7 @@ div.box::after{
 }
 
 .box.headings{
-	background-color: darkblue;
+	background-color: #0C2343;
 	overflow: auto;
 }
 
@@ -305,10 +305,16 @@ video{
 	
 	z-index: 2;
 }
-
+/*
 .spin:hover{
 	
 	animation:spin 0.5s ease-in 1 alternate, blend 1s linear 1;
+	animation-fill-mode: forwards;
+}*/
+
+.spin:hover{
+	
+	animation:blend 1s linear 1;
 	animation-fill-mode: forwards;
 }
 
