@@ -65,12 +65,12 @@ div.box::after{
 
 .name{
 	color: #77A1FF;
-	font-size: xx-large;
+	font-size: x-large;
 }
 
 .description{
 	color: black;
-	font-size: x-large;
+	font-size: large;
 	font-weight: bold;
 }
 
