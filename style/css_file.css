@@ -190,17 +190,17 @@ img{
 }
 
 #home{
-	background-color: #15B0D1;
+	background-color: #2F5D7C;
 }
 
 #services{
-	background-color: #FFAADC;
+	background-color: #2F5D7C;
 	padding: 0.5%;	
 	display: inline-flex;
 }
 
 #process{
-	background-color: #FFD477;
+	background-color: #2F5D7C;
 	padding: 0.5%;	
 	display: inline-flex;
 }
@@ -212,7 +212,7 @@ img{
 }
 
 #projects{
-	background-color: #9BF7DC;
+	background-color: #2F5D7C;
 	padding: 0.5%;	
 	display: inline-flex;
 }
