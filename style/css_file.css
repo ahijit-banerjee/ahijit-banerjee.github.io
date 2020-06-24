@@ -151,6 +151,14 @@ img{
 	float: left;
 }
 
+#heading3{
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	width: 100%;
+	padding: 1.5%;
+}
+
 .heading2{
     float: right;
 	display: flex;
