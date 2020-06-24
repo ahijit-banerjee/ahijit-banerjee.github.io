@@ -105,6 +105,7 @@ div.box::after{
 	background-color: #0C2343;
 	overflow: auto;
 	font-family: Arial;
+	padding-left: 1%;
 }
 
 .proj{
