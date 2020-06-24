@@ -268,12 +268,12 @@ video{
 .dropdown-content {
   	display: none;
 	position: absolute;
-	top: 69px;
+	top: 45%;
+	right: 6%;
 	background-color: #f1f1f1;
 	min-width: 160px;
 	overflow: visible;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	right: 0;
 	z-index: 1;
 	font-size: large;
 }
