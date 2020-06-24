@@ -329,6 +329,7 @@ video{
 
 .spin:hover{
 	
+	cursor: pointer;
 	animation:blend 1s linear 1;
 	animation-fill-mode: forwards;
 }
