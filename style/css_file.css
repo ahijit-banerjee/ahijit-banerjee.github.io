@@ -96,6 +96,7 @@ div.box::after{
 .box.headings{
 	background-color: #0C2343;
 	overflow: auto;
+	font-family: Arial;
 }
 
 .proj{
