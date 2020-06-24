@@ -19,7 +19,7 @@ html, body{
 .box{
 	width: 100%;
 	background-color: white;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: floralwhite;
 	font-size: 180%;
 	text-align: center;
