@@ -59,7 +59,7 @@ div.box::after{
 }
 
 .sub-box-flex p{
-	font-size: x-large;
+	font-size: large;
 	padding: 0.5% 1%;
 }
 
@@ -175,7 +175,7 @@ img{
 
 .plaque img{
 	margin-right: 0;
-	height: 70px;
+	height: 55px;
 	padding: 0.5% 0;
 }
 
