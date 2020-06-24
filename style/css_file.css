@@ -37,6 +37,14 @@ html, body{
 	max-width: 100%;
 }
 
+.menu1{
+	height: 75px;
+}
+
+.menu1 img{
+	margin-left: 0;
+}
+
 /*
 div.box::after{
 	
